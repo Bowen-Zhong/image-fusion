@@ -28,9 +28,7 @@ pip install mamba_ssm==1.0.1 # mmamba_ssm-1.0.1+cu118torch1.13cxx11abiFALSE-cp38
 pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 
 ### 2. Data Preparation  
-Download the Harvard-Medical-Image-Fusion (HMIF) dataset from [通过网盘分享的文件：HMIFDatasets
-链接: https://pan.baidu.com/s/1qPi8Zu3nMtv0Pzry9dL8xQ?pwd=1z3x 提取码: 1z3x 
---来自百度网盘超级会员v5的分享](#) and place the folder `./HMIFDatasets/`.  
+Download the Harvard-Medical-Image-Fusion (HMIF) dataset from [[Link]https://pan.baidu.com/s/1qPi8Zu3nMtv0Pzry9dL8xQ?pwd=1z3x](#) and place the folder `./HMIFDatasets/`.  
 
 ### 3. WD-HSSF Training  
 Modify the type and settings of the fusion task in `args_setting.py`.  
