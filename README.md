@@ -1,5 +1,5 @@
 # medical-image-fusion
-This is the official implementation of the W-MambaFuse model proposed in the paper ("Wavelet-Domain and Hierarchical State Space Fusion for Enhanced Medical Image Integration") with Pytorch.
+This is the official implementation of the ITFuse model proposed in the paper ("Wavelet-Domain and Hierarchical State Space Fusion for Enhanced Medical Image Integration") with Pytorch.
 
 
 # Usage  
